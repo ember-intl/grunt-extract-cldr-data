@@ -20,7 +20,7 @@
   },
   "license": "BSD",
   "dependencies": {
-    "@ember-intl/formatjs-extract-cldr-data": "^6.0.0",
+    "@ember-intl/formatjs-extract-cldr-data": "^6.1.0",
     "serialize-javascript": "^1.0.0"
   },
   "devDependencies": {
