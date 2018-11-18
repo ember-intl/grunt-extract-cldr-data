@@ -1,5 +1,5 @@
 {
-  "name": "grunt-extract-cldr-data",
+  "name": "@ember-intl/grunt-extract-cldr-data",
   "version": "4.1.0",
   "description": "Extract CLDR data and transform it for use in JavaScript.",
   "author": "Eric Ferraiuolo <edf@ericf.me>",
@@ -16,11 +16,11 @@
   ],
   "main": "Gruntfile.js",
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">= 6"
   },
   "license": "BSD",
   "dependencies": {
-    "formatjs-extract-cldr-data": "^4.1.0",
+    "@ember-intl/formatjs-extract-cldr-data": "^6.1.0",
     "serialize-javascript": "^1.0.0"
   },
   "devDependencies": {
@@ -40,10 +40,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yahoo/grunt-extract-cldr-data.git"
+    "url": "https://github.com/ember-intl/formatjs-extract-cldr-data.git"
   },
   "bugs": {
     "url": "https://github.com/yahoo/grunt-extract-cldr-data/issues"
   },
-  "homepage": "https://github.com/yahoo/grunt-extract-cldr-data"
+  "homepage": "https://github.com/ember-intl/formatjs-extract-cldr-data"
 }

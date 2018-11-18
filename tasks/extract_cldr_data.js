@@ -12,7 +12,7 @@ module.exports = function (grunt) {
 
   grunt.registerMultiTask('extract_cldr_data', 'Extract CLDR data and transform it for use in JavaScript.', function () {
 
-    var extractData = require('formatjs-extract-cldr-data');
+    var extractData = require('@ember-intl/formatjs-extract-cldr-data');
     var path        = require('path');
     var serialize   = require('serialize-javascript');
 
