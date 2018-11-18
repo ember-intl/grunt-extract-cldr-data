@@ -1,6 +1,6 @@
 {
   "name": "@ember-intl/grunt-extract-cldr-data",
-  "version": "4.1.0",
+  "version": "5.0.0",
   "description": "Extract CLDR data and transform it for use in JavaScript.",
   "author": "Eric Ferraiuolo <edf@ericf.me>",
   "keywords": [
